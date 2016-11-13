@@ -1,0 +1,9 @@
+when you did shit:
+	-commit to my branch
+	-pull request to master branch
+	-date title and cute description <3 :3
+
+after when you wanna do work again:
+	-switch master branch sync
+	-switch my branch and update from master, sync
+	-go into directory and work
